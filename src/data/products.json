@@ -1,0 +1,427 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Premium Wireless Headphones",
+      "slug": "premium-wireless-headphones",
+      "price": 299.99,
+      "originalPrice": 399.99,
+      "discount": 25,
+      "category": "Electronics",
+      "subCategory": "Audio",
+      "rating": 4.8,
+      "reviews": 1248,
+      "description": "Experience studio-quality sound with our premium wireless headphones. Featuring active noise cancellation, 40-hour battery life, and premium comfort padding.",
+      "features": [
+        "Active Noise Cancellation (ANC)",
+        "40-hour battery life",
+        "Premium memory foam cushions",
+        "Bluetooth 5.2 connectivity",
+        "Foldable design with carrying case"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1487215078519-e21cc028cb29?w=800&h=800&fit=crop"
+      ],
+      "stock": 45,
+      "inStock": true,
+      "variants": [
+        { "color": "Black", "colorCode": "#000000" },
+        { "color": "White", "colorCode": "#FFFFFF" },
+        { "color": "Navy Blue", "colorCode": "#001F3F" }
+      ],
+      "badge": "Bestseller"
+    },
+    {
+      "id": 2,
+      "name": "Smart Watch Series 7",
+      "slug": "smart-watch-series-7",
+      "price": 449.99,
+      "originalPrice": 549.99,
+      "discount": 18,
+      "category": "Electronics",
+      "subCategory": "Wearables",
+      "rating": 4.7,
+      "reviews": 892,
+      "description": "Stay connected and healthy with our latest smartwatch featuring advanced health monitoring, GPS tracking, and a stunning always-on display.",
+      "features": [
+        "Always-on Retina display",
+        "ECG and blood oxygen monitoring",
+        "GPS + Cellular connectivity",
+        "Water resistant up to 50m",
+        "18-hour battery life"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1434494878577-86c23bcb06b9?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=800&fit=crop"
+      ],
+      "stock": 32,
+      "inStock": true,
+      "variants": [
+        { "color": "Space Gray", "colorCode": "#4A4A4A" },
+        { "color": "Silver", "colorCode": "#C0C0C0" },
+        { "color": "Gold", "colorCode": "#FFD700" }
+      ],
+      "badge": "New Arrival"
+    },
+    {
+      "id": 3,
+      "name": "Designer Leather Backpack",
+      "slug": "designer-leather-backpack",
+      "price": 189.99,
+      "originalPrice": 259.99,
+      "discount": 27,
+      "category": "Fashion",
+      "subCategory": "Bags",
+      "rating": 4.9,
+      "reviews": 567,
+      "description": "Handcrafted genuine leather backpack perfect for professionals and travelers. Features multiple compartments and premium brass hardware.",
+      "features": [
+        "Genuine Italian leather",
+        "Padded laptop compartment (15-inch)",
+        "Multiple organizational pockets",
+        "Premium brass hardware",
+        "Adjustable shoulder straps"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1622560480605-d83c853bc5c3?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?w=800&h=800&fit=crop"
+      ],
+      "stock": 23,
+      "inStock": true,
+      "variants": [
+        { "color": "Cognac Brown", "colorCode": "#8B4513" },
+        { "color": "Black", "colorCode": "#000000" },
+        { "color": "Dark Brown", "colorCode": "#3E2723" }
+      ],
+      "badge": "Premium"
+    },
+    {
+      "id": 4,
+      "name": "Minimalist Running Shoes",
+      "slug": "minimalist-running-shoes",
+      "price": 129.99,
+      "originalPrice": 179.99,
+      "discount": 28,
+      "category": "Sports",
+      "subCategory": "Footwear",
+      "rating": 4.6,
+      "reviews": 1034,
+      "description": "Lightweight performance running shoes engineered for speed and comfort. Features responsive cushioning and breathable mesh upper.",
+      "features": [
+        "Breathable mesh upper",
+        "Responsive foam cushioning",
+        "Lightweight design (220g)",
+        "Durable rubber outsole",
+        "Reflective details for night running"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=800&h=800&fit=crop"
+      ],
+      "stock": 78,
+      "inStock": true,
+      "variants": [
+        { "size": "US 8", "available": true },
+        { "size": "US 9", "available": true },
+        { "size": "US 10", "available": true },
+        { "size": "US 11", "available": true }
+      ],
+      "badge": "Bestseller"
+    },
+    {
+      "id": 5,
+      "name": "Ceramic Coffee Maker Pro",
+      "slug": "ceramic-coffee-maker-pro",
+      "price": 219.99,
+      "originalPrice": 299.99,
+      "discount": 27,
+      "category": "Home",
+      "subCategory": "Kitchen",
+      "rating": 4.8,
+      "reviews": 445,
+      "description": "Premium ceramic coffee maker with precise temperature control and programmable brewing. Makes barista-quality coffee at home.",
+      "features": [
+        "Ceramic brewing chamber",
+        "Precise temperature control",
+        "Programmable timer",
+        "12-cup capacity",
+        "Auto shut-off safety feature"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=800&h=800&fit=crop"
+      ],
+      "stock": 34,
+      "inStock": true,
+      "variants": [
+        { "color": "Matte Black", "colorCode": "#1C1C1C" },
+        { "color": "Brushed Steel", "colorCode": "#B0B0B0" }
+      ],
+      "badge": "Editor's Choice"
+    },
+    {
+      "id": 6,
+      "name": "Luxury Silk Scarf",
+      "slug": "luxury-silk-scarf",
+      "price": 89.99,
+      "originalPrice": 129.99,
+      "discount": 31,
+      "category": "Fashion",
+      "subCategory": "Accessories",
+      "rating": 4.9,
+      "reviews": 234,
+      "description": "Hand-printed pure silk scarf with exclusive design. Perfect accessory to elevate any outfit with elegance.",
+      "features": [
+        "100% pure mulberry silk",
+        "Hand-rolled edges",
+        "Exclusive artistic print",
+        "90cm x 90cm dimensions",
+        "Comes with luxury gift box"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1601924287271-fa5e93f4c2a0?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1520903920243-00d872a2d1c9?w=800&h=800&fit=crop"
+      ],
+      "stock": 15,
+      "inStock": true,
+      "variants": [
+        { "pattern": "Floral", "image": "floral" },
+        { "pattern": "Abstract", "image": "abstract" },
+        { "pattern": "Geometric", "image": "geometric" }
+      ],
+      "badge": "Limited Edition"
+    },
+    {
+      "id": 7,
+      "name": "Professional Camera Drone",
+      "slug": "professional-camera-drone",
+      "price": 899.99,
+      "originalPrice": 1199.99,
+      "discount": 25,
+      "category": "Electronics",
+      "subCategory": "Drones",
+      "rating": 4.7,
+      "reviews": 328,
+      "description": "4K camera drone with intelligent flight modes, obstacle avoidance, and 30-minute flight time. Perfect for aerial photography.",
+      "features": [
+        "4K HDR camera with gimbal",
+        "Intelligent flight modes",
+        "360° obstacle avoidance",
+        "30-minute flight time",
+        "8km transmission range"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1508444845599-5c89863b1c44?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1579829366248-204fe8413f31?w=800&h=800&fit=crop"
+      ],
+      "stock": 12,
+      "inStock": true,
+      "variants": [
+        { "package": "Standard", "price": 899.99 },
+        { "package": "Fly More Combo", "price": 1299.99 }
+      ],
+      "badge": "Pro"
+    },
+    {
+      "id": 8,
+      "name": "Organic Yoga Mat Premium",
+      "slug": "organic-yoga-mat-premium",
+      "price": 79.99,
+      "originalPrice": 99.99,
+      "discount": 20,
+      "category": "Sports",
+      "subCategory": "Fitness",
+      "rating": 4.8,
+      "reviews": 678,
+      "description": "Eco-friendly yoga mat made from natural rubber and cork. Non-slip surface perfect for all yoga styles.",
+      "features": [
+        "100% natural rubber base",
+        "Cork top layer for grip",
+        "6mm thick cushioning",
+        "Non-toxic and biodegradable",
+        "Includes carrying strap"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1571902943202-507ec2618e8f?w=800&h=800&fit=crop"
+      ],
+      "stock": 56,
+      "inStock": true,
+      "variants": [
+        { "color": "Natural Cork", "colorCode": "#C19A6B" },
+        { "color": "Black Cork", "colorCode": "#2C2C2C" }
+      ],
+      "badge": "Eco-Friendly"
+    },
+    {
+      "id": 9,
+      "name": "Stainless Steel Water Bottle",
+      "slug": "stainless-steel-water-bottle",
+      "price": 34.99,
+      "originalPrice": 49.99,
+      "discount": 30,
+      "category": "Sports",
+      "subCategory": "Accessories",
+      "rating": 4.9,
+      "reviews": 1523,
+      "description": "Insulated stainless steel water bottle keeps drinks cold for 24 hours or hot for 12 hours. Leak-proof and eco-friendly.",
+      "features": [
+        "Double-wall vacuum insulation",
+        "BPA-free materials",
+        "Leak-proof lid",
+        "Wide mouth for easy cleaning",
+        "Fits standard cup holders"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1588428657154-f4e6c3f79e6e?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1609840112855-9ab5ad8f66e0?w=800&h=800&fit=crop"
+      ],
+      "stock": 145,
+      "inStock": true,
+      "variants": [
+        { "size": "500ml", "price": 34.99 },
+        { "size": "750ml", "price": 39.99 },
+        { "size": "1000ml", "price": 44.99 }
+      ],
+      "badge": "Bestseller"
+    },
+    {
+      "id": 10,
+      "name": "Modern Desk Lamp LED",
+      "slug": "modern-desk-lamp-led",
+      "price": 69.99,
+      "originalPrice": 89.99,
+      "discount": 22,
+      "category": "Home",
+      "subCategory": "Lighting",
+      "rating": 4.7,
+      "reviews": 389,
+      "description": "Sleek LED desk lamp with adjustable brightness and color temperature. Perfect for work, study, or reading.",
+      "features": [
+        "Stepless dimming control",
+        "Adjustable color temperature",
+        "USB charging port",
+        "Touch control panel",
+        "Energy-efficient LED"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1565374828854-e5a5e26ca2f6?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&h=800&fit=crop"
+      ],
+      "stock": 67,
+      "inStock": true,
+      "variants": [
+        { "color": "White", "colorCode": "#FFFFFF" },
+        { "color": "Black", "colorCode": "#000000" },
+        { "color": "Silver", "colorCode": "#C0C0C0" }
+      ],
+      "badge": null
+    },
+    {
+      "id": 11,
+      "name": "Wireless Charging Pad",
+      "slug": "wireless-charging-pad",
+      "price": 39.99,
+      "originalPrice": 59.99,
+      "discount": 33,
+      "category": "Electronics",
+      "subCategory": "Accessories",
+      "rating": 4.6,
+      "reviews": 892,
+      "description": "Fast wireless charging pad compatible with all Qi-enabled devices. Sleek design with LED indicator.",
+      "features": [
+        "15W fast charging",
+        "Qi-certified",
+        "Non-slip surface",
+        "LED charging indicator",
+        "Overheat protection"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1591290619762-d71e34a05d0d?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1625948515291-69613efd103f?w=800&h=800&fit=crop"
+      ],
+      "stock": 234,
+      "inStock": true,
+      "variants": [
+        { "color": "Black", "colorCode": "#000000" },
+        { "color": "White", "colorCode": "#FFFFFF" }
+      ],
+      "badge": "Bestseller"
+    },
+    {
+      "id": 12,
+      "name": "Premium Sunglasses",
+      "slug": "premium-sunglasses",
+      "price": 159.99,
+      "originalPrice": 219.99,
+      "discount": 27,
+      "category": "Fashion",
+      "subCategory": "Eyewear",
+      "rating": 4.8,
+      "reviews": 445,
+      "description": "Designer sunglasses with polarized lenses and UV400 protection. Timeless style meets superior eye protection.",
+      "features": [
+        "Polarized lenses",
+        "100% UV400 protection",
+        "Lightweight titanium frame",
+        "Anti-reflective coating",
+        "Includes premium case"
+      ],
+      "images": [
+        "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=800&h=800&fit=crop",
+        "https://images.unsplash.com/photo-1577803645773-f96470509666?w=800&h=800&fit=crop"
+      ],
+      "stock": 43,
+      "inStock": true,
+      "variants": [
+        { "style": "Aviator", "image": "aviator" },
+        { "style": "Wayfarer", "image": "wayfarer" },
+        { "style": "Round", "image": "round" }
+      ],
+      "badge": "Premium"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics",
+      "slug": "electronics",
+      "icon": "MdDevices",
+      "subCategories": ["Audio", "Wearables", "Drones", "Accessories"]
+    },
+    {
+      "id": 2,
+      "name": "Fashion",
+      "slug": "fashion",
+      "icon": "GiClothes",
+      "subCategories": ["Bags", "Accessories", "Eyewear"]
+    },
+    {
+      "id": 3,
+      "name": "Sports",
+      "slug": "sports",
+      "icon": "MdSportsSoccer",
+      "subCategories": ["Footwear", "Fitness", "Accessories"]
+    },
+    {
+      "id": 4,
+      "name": "Home",
+      "slug": "home",
+      "icon": "MdHome",
+      "subCategories": ["Kitchen", "Lighting"]
+    }
+  ]
+}
